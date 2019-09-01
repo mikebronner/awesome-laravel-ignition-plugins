@@ -1,4 +1,4 @@
-# Awesome Laravel Ignition Plugins
+# 🔥 Awesome Laravel Ignition Plugins
 A curated list of 3rd-party plugins for the Laravel Igniter error package. If you have created a plugin for Ignition, be sure to submit a PR and add it to the list!
 
 ### Contributing
