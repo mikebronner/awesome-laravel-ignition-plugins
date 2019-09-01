@@ -10,4 +10,4 @@ This is the base package that provides the advanced error reporting functionalit
 ## Plugins
 - Manage Migrations: https://github.com/mazedlx/ignition-migrations
 - Contextual StackOverflow Questions: https://github.com/Astrotomic/ignition-stackoverflow
-- Contextual Laracast discussions: https://github.com/stefanbauer/ignition-laracasts-tab
+- Contextual Laracast Discussions: https://github.com/stefanbauer/ignition-laracasts-tab
