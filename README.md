@@ -7,7 +7,10 @@ Please submit new plugins that you create or find as a PR.
 ## [Laravel Ignition](https://github.com/facade/ignition)
 This is the base package that provides the advanced error reporting functionality for Laravel.
 
-## Plugins
+## Official Plugins
+- Code Editor: https://github.com/facade/ignition-code-editor
+
+## Community Plugins
 - Manage Migrations: https://github.com/mazedlx/ignition-migrations
 - Contextual StackOverflow Questions: https://github.com/Astrotomic/ignition-stackoverflow
 - Contextual Laracast Discussions: https://github.com/stefanbauer/ignition-laracasts-tab
