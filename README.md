@@ -6,9 +6,12 @@ Please submit new plugins that you create or find as a PR.
 
 ## [Laravel Ignition](https://github.com/facade/ignition)
 This is the base package that provides the advanced error reporting functionality for Laravel.
+- Skeleton to start developing your own Ignition plugins: https://github.com/facade/ignition-skeleton
 
 ## Official Plugins
 - Code Editor: https://github.com/facade/ignition-code-editor
+- Self-Diagnosis: https://github.com/facade/ignition-self-diagnosis
+- Tinker: https://github.com/facade/ignition-tinker-tab
 
 ## Community Plugins
 - Manage Migrations: https://github.com/mazedlx/ignition-migrations
